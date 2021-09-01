@@ -1,4 +1,4 @@
-# ETL-Pipelines-and-Business-Intelligence-on-IMDB-dataset
+# Product Recommendation Data Product for NETFLIX : ETL-Pipelines-and-Business-Intelligence-on-IMDB-dataset
 
 To setup this project install the following softwares
 
